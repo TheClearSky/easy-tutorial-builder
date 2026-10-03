@@ -1,6 +1,6 @@
 {
   "name": "@theclearsky/easy-tutorial-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Interactive, fault-tolerant product tours as typed, data-only scripts: event-driven steps, pan/zoom-aware spotlight, remote launch over postMessage.",
   "license": "MIT",
   "author": "Deepak Prasad <TheClearSky@github.com>",
