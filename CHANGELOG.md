@@ -1,6 +1,15 @@
 # Changelog
 
-## 0.0.1 — unreleased
+## 0.0.2 — 2026-10-03
+
+Documentation only — no code changes.
+
+- A new README: what it is and why, a screenshot of a real tour (watch-together's Pop), install entries, a quick
+  start, recipes (React, drawing your own guide, a one-off spotlight, resuming), remote launch, an API table, and the
+  projects that use it — with links to npm, GitHub and the sibling library.
+- The first release published by CI with npm provenance.
+
+## 0.0.1 — 2026-10-03
 
 First release.
 
